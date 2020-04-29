@@ -1,0 +1,1 @@
+# This is my personal scratch file to follow along with the JavaScript lecture.
